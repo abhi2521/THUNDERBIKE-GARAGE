@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* :where(.css-dev-only-do-not-override-16dneet)[class^="ant-table"]
+  [class^="ant-table"],
+:where(.css-dev-only-do-not-override-16dneet)[class*=" ant-table"]
+  [class^="ant-table"],
+:where(.css-dev-only-do-not-override-16dneet)[class^="ant-table"]
+  [class*=" ant-table"],
+:where(.css-dev-only-do-not-override-16dneet)[class*=" ant-table"]
+  [class*=" ant-table"] {
+  background-color: transparent;
+  box-sizing: border-box;
+} */
